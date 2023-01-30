@@ -1,7 +1,6 @@
-[
-  {
+[  {
     "id": 1,
-    "title": "product1",
+    "title": "product2",
     "description": "descri",
     "price": 900,
     "thumbnail": "../image/1.jpg",
